@@ -13,7 +13,7 @@ To compile this simply run _\*_:
 $ make
 ```
 
-Keep in mind that this requires you to have
+_\*_ Keep in mind that this requires you to have
 make installed, it comes with most \*nix
 OS these days
 
