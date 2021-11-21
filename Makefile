@@ -11,3 +11,6 @@ stack.o: stack.c stack.h
 
 rpc.o: rpc.c rpc.h
 	gcc $(FLAGS) $(WARNS) -c rpc.c
+
+clean:
+	rm -rf *.o main tags
